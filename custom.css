@@ -1,0 +1,52 @@
+body{
+padding:0px;
+margin:0px;
+background-color:blues;
+color:	#000;	//black	000000
+}
+
+html{
+	font-family:sans-serif;	font-size:	14px;
+}
+
+
+pre{
+	font-family:sans-serif;
+	font-size:18px;
+	background-color:#eee;
+	color:#80bbbb;	
+}
+
+a.menu1{
+display:inline-block;
+font-family:sans-serif;
+font-size: 18px;
+background-color:#70bbbb;
+color:#fff;
+
+}
+
+a.menu1:hover{
+display:inline-block;
+font-family:sans-serif;
+font-size: 18px;
+background-color:#007600
+color:#00ff00
+}
+
+a.menu2{
+display:inline-block;
+font-family:sans-serif;
+font-size: 18px;
+background-color:#
+color:#inline-block;
+border-style:	solid;
+border-color:	red;
+padding: 5px 5px 5px 5px;
+border-width: 5px 5px 5px 5px;
+
+}
+a.menu2:hover{
+font-family:sans-serif;
+color:#0000ff
+}
